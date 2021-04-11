@@ -1,1 +1,69 @@
-#
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 system.in-appstore.com
+31.216.147.133 eu.api.mega.co.nz 
+31.216.148.11 eu.static.mega.co.nz 
+117.18.237.188 g.cdn1.mega.co.nz 
+31.216.147.130 mega.co.nz 
+31.216.148.10 mega.nz 
+31.216.147.156 w.api.mega.co.nz
+127.0.0.1 advapikj.joyplus.tv
+127.0.0.1 alog.umeng.com
+127.0.0.1 cdn.kkapp.com
+127.0.0.1 cloudserv.bbtv.cn
+127.0.0.1 tv.kkapp.com
+127.0.0.1 tv.showcome.net
+127.0.0.1 tvpic.bbtv.cn
+127.0.0.1 pingmid.qq.com
+127.0.0.1 adsmart.konka.com
+127.0.0.1 adc.kkapp.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 www.a.shifen.com
+127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdateservice.yunos.com
+127.0.0.1 1457950.p23.tc.cdntip.com
+127.0.0.1 pdns.dnspod.cn
+127.0.0.1 pool.ntp.org
+127.0.0.1 dev.voicecloud.cn
+127.0.0.1 alog.umeng.com.gds.alibabadns.com
+127.0.0.1 tj.pttc.t002.ottcn.com
+127.0.0.1 dualstack-na61-na62.wagbridge.alibaba.tanx.com
+127.0.0.1 app-servcie-third.chinaeast2.cloudapp.chinacloudapi.cn
+127.0.0.1 konka-service-appstart.chinaeast2.cloudapp.chinacloudapi.cn
+127.0.0.1 logonext.tv.kuyun.com	
+127.0.0.1 dc.bajintech.com	
+127.0.0.1 kkupgrade.chinaeast2.cloudapp.chinacloudapi.cn	
+127.0.0.1 dev.voicecloud.cn	
+127.0.0.1 alog.umeng.com.gds.alibabadns.com	
+127.0.0.1 konka-service-app.chinaeast2.cloudapp.chinacloudapi.cn
+127.0.0.1 tpns.qq.com
+127.0.0.1 mobiledanmu.kuwo.cn
+127.0.0.1 g.koowo.com
+127.0.0.1 c.kuwo.cn
+127.0.0.1 log.kuwo.cn
+127.0.0.1 mobilead.kuwo.cn
+127.0.0.1 rich.kuwo.cn
+127.0.0.1 wa.kuwo.cn
+127.0.0.1 webstat.kuwo.cn
+127.0.0.1 api.iimedia.cn
+127.0.0.1 g.haluoha.com
+||mess-lab.com^
+||ad.12306.cn^
+||eclick.baidu.com^
+||entry.baidu.com^
+||hmma.baidu.com^
+||mobads-logs.baidu.com^
+||mobads.baidu.com^
+||mtj.baidu.com^
+||nsclick.baidu.com^
+||static.tieba.baidu.com^
+||ucstat.baidu.com^
+||union.baidu.com^
+||imageplus.baidu.com^
+||t10.baidu.com^
+||t11.baidu.com^
+||t12.baidu.com^
+||google-analytics.com^
+||doubleclick.net^
+127.0.0.1 panic.com
